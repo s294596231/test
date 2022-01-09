@@ -21,4 +21,5 @@
 
         $data = king(10,7);
         print_r(king($data));
+
  ?>
